@@ -1,5 +1,4 @@
 # Real-time-Chat-Application
-# MERN Real-Time Chat App
 
 A full-stack real-time chat application built using MongoDB, Express, React, and Node.js with Socket.IO for real-time communication.
 
