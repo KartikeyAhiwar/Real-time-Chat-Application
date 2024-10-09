@@ -1,0 +1,5 @@
+npx create-react-app frontend
+cd frontend
+
+Install Dependencies
+npm install socket.io-client
