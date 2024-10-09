@@ -1,2 +1,14 @@
 # Real-time-Chat-Application
-The Real-time Chat Application is built using the MERN stack and Socket.io for real-time messaging. Users can join chat rooms, send messages, and receive updates instantly. It showcases skills in full-stack development and real-time web apps.
+# MERN Real-Time Chat App
+
+A full-stack real-time chat application built using MongoDB, Express, React, and Node.js with Socket.IO for real-time communication.
+
+## Features
+- Create and join chat rooms.
+- Real-time messaging.
+
+## Setup
+1. Clone the repository.
+2. Install dependencies: `npm install` for backend and frontend.
+3. Run backend: `npm start`.
+4. Run frontend: `npm start`.
