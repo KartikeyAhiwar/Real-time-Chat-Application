@@ -1,0 +1,7 @@
+Create the Backend Folder:
+mkdir mern-chat-app && cd mern-chat-app
+mkdir backend && cd backend
+
+Initialize Backend:
+npm init -y
+npm install express mongoose dotenv cors socket.io
